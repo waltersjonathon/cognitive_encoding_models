@@ -1,0 +1,47 @@
+﻿condition,duration
+Rest,30
+Spatial Imagery,30
+Motor Imagery,30
+Verbal 2-back,30
+Object 2-back,30
+Objects,30
+Thory of Mind,30
+Interval Timing,30
+Digit Judgment,15
+Math,15
+Finger Sequence,15
+Finger Simple,15
+Word Reading,16
+Verb Generation,14
+Video (Actions),15
+Video (Knots),15
+Visual Search (Easy),10
+Visual Search (Med),10
+Visual Search (Hard),10
+Stroop (Congruent),2
+Stroop (Incongruent),2
+Pleasant Scenes,2
+Unpleasant Scenes,2
+Happy Faces,2
+Sad Faces,2
+Go,1
+No Go,1
+Prediction (Scrambled),5
+Prediction (Violated),5
+Prediction (True),5
+Mental Rotation (Easy),10
+Mental Rotation (Med),10
+Mental Rotation (Hard),10
+Response Alt. (Easy),10
+Response Alt. (Med),10
+Response Alt. (Hard),10
+Movie (Nature),30
+Movie (Landscape),30
+Movie (Animated),30
+Spatial Map (Easy),10
+Spatial Map (Med),10
+Spatial Map (Hard),10
+Scrambled Motion,15
+Biological Motion,15
+Permuted Rules (CPRO),30
+Instructions,5

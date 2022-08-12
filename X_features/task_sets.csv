@@ -1,0 +1,45 @@
+﻿task,sc1,sc2
+No Go,1,0
+Go,1,0
+Theory of Mind,1,1
+Video (Actions),1,1
+Video (Knots),1,1
+Unpleasant Scenes,1,0
+Pleasant Scenes,1,0
+Math,1,0
+Digit Judgment,1,0
+Object Viewing,1,0
+Sad Faces,1,0
+Happy Faces,1,0
+Interval Timing,1,0
+Motor Imagery,1,0
+Finger Simple,1,1
+Finger Sequence,1,1
+Verbal 2-back,1,0
+Object 2-back,1,1
+Spatial Imagery,1,1
+Stroop (Incongruent),1,0
+Stroop (Congruent),1,0
+Verb Generation,1,1
+Word Reading,1,1
+Visual Search (Easy),1,1
+Visual Search (Med),1,1
+Visual Search (Hard),1,1
+Permuted Rules (CPRO),0,1
+Prediction (True),0,1
+Prediction (Violated),0,1
+Prediction (Scrambled),0,1
+Spatial Map (Easy),0,1
+Spatial Map (Med),0,1
+Spatial Map (Hard),0,1
+Movie (Nature),0,1
+Movie (Animated),0,1
+Movie (Landscape),0,1
+Mental Rotation (Easy),0,1
+Mental Rotation (Med),0,1
+Mental Rotation (Hard),0,1
+Biological Motion,0,1
+Scrambled Motion,0,1
+Response Alt. (Easy),0,1
+Response Alt. (Med),0,1
+Response Alt. (Hard),0,1
